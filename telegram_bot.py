@@ -1,6 +1,6 @@
+import os
 import telebot
 from telebot import types
-from datetime import datetime, timedelta
 
 # 🔹 Твой токен и ID администратора
 TOKEN = "8501555676:AAHhVVPd_uRm7arXjD87Gj74M_TZOL3xlh8"
